@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a,armeabi"
+    api-level="21"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="2958250344627"
+    token="-1176289112218025620"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1485" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1178" />
+    <task
+        name="verifier"
+        duration="318" />
+
+    <artifact
+        location="D:\Barkost\Fikri\Pembagian-Waris-dev_1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="2958250344627"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Barkost\Fikri\Pembagian-Waris-dev_1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

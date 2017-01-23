@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_play_pressed.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play_pressed.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_stop.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_stop.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_stop_pressed.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_stop_pressed.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_play.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_pause.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pause.png"
+    }
+]

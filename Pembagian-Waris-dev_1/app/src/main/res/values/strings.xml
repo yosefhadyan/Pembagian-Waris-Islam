@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-8120927785000028/5320325595</string>
+    <string name="interstitial_home_footer">ca-app-pub-8120927785000028/2366859192</string>
+
+    <!-- App Desc -->
+    <string name="app_name">Pembagian Waris Islam</string>
+    <string name="app_version"><b><i>Pembagian Waris Islam</i> v0.2</b>\n</string>
+    <string name="app_dev"><b>Analisis, Desain dan Pengembang :</b>\n- Fikri Fahru Roji\n- Eri Satria M. Si,\n- Dewi Tresnawati MT.</string>
+    <string name="app_source"><b>Kode Sumber :\n</b>-</string>
+    <string name="app_ref_calc"><b>Library Perhitungan :\n</b>Faraid System (Ridwan Setiawan)</string>
+    <string name="app_ref"><b>Referensi Materi : \nKitab Al Asas Fi Ilmi Faraidh</b>\nPenulis : KH Aceng Zakaria\nPenerbit : Pesantren Persatuan Islam Garut (Garut, 1995)</string>
+    <string name="app_val"><b>Validasi Perhitungan : </b>\nUstadz Abdurosyid</string>
+    <string name="app_dev_mail"><b>Website : </b>informatika.sttgarut.ac.id\n<b>Email : </b>fikrifahruroji@live.com</string>
+    <string name="copyright">Copyright © 2015 Fikri Fahru Roji</string>
+
+    <!-- Materi menu -->
+    <string name="materi_0">Definisi Faraid (Waris Islam)</string>
+    <string name="materi_1">Ayat-ayat Waris</string>
+    <string name="materi_2">Hadits-hadits Waris</string>
+    <string name="materi_3">Hak-hak Harta Waris</string>
+    <string name="materi_4">Rukun Waris</string>
+    <string name="materi_5">Sebab dan Syarat</string>
+    <string name="materi_6">Penghalang Hak Waris</string>
+    <string name="materi_7">Ahli Waris</string>
+    <string name="materi_8">Pohon Keluarga</string>
+    <string name="materi_9">Permasalahan Waris</string>
+
+    <!-- option -->
+    <string name="exit">Anda yakin mau keluar?</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="next"><b>Lanjut</b></string>
+    <string name="back"><b>Kembali</b></string>
+    <string name="home"><b>Home</b></string>
+    <string name="blank"></string>
+    <string name="separator">|</string>
+    <string name="rp">Rp. </string>
+    <string name="hasil"><b>Hasil</b></string>
+    <string name="hitung"><b>Hitung</b></string>
+    <string name="reset"><b>Ulang</b></string>
+    <string name="error">Error</string>
+    <string name="error_msg">Silahkan lengkapi inputan</string>
+    <string name="ada">Ada</string>
+    <string name="terhalang">(terhalang)</string>
+    <string name="inh1"><i>Masukan Jumlah Harta Peninggalan</i></string>
+    <string name="inh2"><i>Masukan Jumlah Harta Istri</i></string>
+    <string name="inh3"><i>Masukan Jumlah Hutang</i></string>
+    <string name="inh4"><i>Masukan Jumlah Biaya Pemakaman</i></string>
+    <string name="inh5"><i>Masukan Jumlah Wasiat</i></string>
+
+    <!-- step hitung -->
+    <string name="help_materi">\nBantuan Menggunakan\nMenu Materi\n</string>
+    <string name="help_hitung">\nBantuan Menggunakan\nMenu Perhitungan\n</string>
+
+    <!-- step hitung -->
+    <string name="step1"><b>Langkah 1</b></string>
+    <string name="step2"><b>Langkah 2</b></string>
+    <string name="step3"><b>Langkah 3</b></string>
+
+    <!-- Langkah 1 -->
+    <string name="langkah1"><b>Tentukan Siapa yang Meninggal</b></string>
+    <string name="Langkah1Desc">Hal yang pertama kali dilakukan adalah mengetahui siapa yang meninggal, mulai dari jenis kelamin, apakah mayit sudah menikah dan jika sudah menikah apakah sudah memiliki anak?</string>
+    <!--  -->
+    <string name="str_kelamin">Jenis Kelamin :</string>
+    <string name="str_kelamin_l">Laki - Laki</string>
+    <string name="str_kelamin_p">Perempuan</string>
+    <!--  -->
+    <string name="str_status">Status pernikahan :</string>
+    <string name="str_status_nikah">Sudah Menikah</string>
+    <string name="str_status_t_nikah">Belum Menikah</string>
+    <string name="str_status_cerai">Bercerai</string>
+    <!--  -->
+    <string name="str_anak">Mempunyai anak?</string>
+    <string name="str_anak_ya">Ya</string>
+    <string name="str_anak_tidak">Tidak</string>
+
+    <!-- Langkah 2 -->
+    <string name="langkah2"><b>Masukkan Tarikah dan Hak-hak yang harus dipenuhi</b></string>
+    <string name="langkah2Desc">Selanjutnya menghitung seluruh harta yang dimiliki si mayit atau yang dikenal dengan sebutan <i>Tarikah</i> atau <i>Tirkah</i> atau Warisan. Kemudian ada baiknya cek dulu apakah sudah benar-benar tidak ada kewajiban yang harus tunaikan dari hal yang berkaitan dibawah ini.</string>
+    <!--  -->
+    <string name="tarikah">Tarikah (Total harta warisan) :</string>
+    <string name="hak1">Harta campur (Milik Istri / Gonogini) :</string>
+    <string name="hak2">Hutang :</string>
+    <string name="hak3">Biaya pemakaman :</string>
+    <string name="hak4">Wasiat (maksimum ⅓ tarikah) :</string>
+
+    <!-- Langkah 3 -->
+    <string name="langkah3"><b>Masukkan Ahli Waris</b></string>
+    <string name="langkah3Desc">Masukkan anggota keluarga si mayit yang masih hidup atau masih terkait dalam pernikahan (suami/istri yang sudah bercerai tidak termasuk dalam hitungan, tetapi anak kandung dari perceraian masuk dalam hitungan)</string>
+
+    <!-- ahli waris -->
+    <string name="str_anak_laki">Anak Laki-laki</string>
+    <string name="str_anak_perempuan">Anak Perempuan</string>
+    <string name="str_istri">Istri</string>
+    <string name="str_suami">Suami</string>
+    <string name="str_bapak">Bapak</string>
+    <string name="str_ibu">Ibu</string>
+    <string name="str_kakek">Kakek (Ayah dari Bapak)</string>
+    <string name="str_nenek_bapak">Nenek (Ibu dari Bapak)</string>
+    <string name="str_nenek_ibu">Nenek (Ibu dari Ibu)</string>
+    <string name="str_cucu_laki">Cucu Laki-laki</string>
+    <string name="str_cucu_perempuan">Cucu Perempuan</string>
+    <string name="str_saudara_kandung">Saudara Kandung</string>
+    <string name="str_saudari_kandung">Saudari Kandung</string>
+    <string name="str_saudara_sebapak">Saudara Sebapak</string>
+    <string name="str_saudari_sebapak">Saudari Sebapak</string>
+    <string name="str_saudara_seibu">Saudara Seibu</string>
+    <string name="str_saudari_seibu">Saudari Seibu</string>
+    <string name="str_keponakan_sekandung">Anak laki-laki dari\nSaudara/i Sekandung</string>
+    <string name="str_keponakan_sebapak">Anak laki-laki dari\nSaudara/i Sebapak</string>
+    <string name="str_paman_kandung">Paman Kandung</string>
+    <string name="str_paman_sebapak">Paman Sebapak</string>
+    <string name="str_anak_paman_kandung">Anak laki-laki dari\nPaman Kandung</string>
+    <string name="str_anak_paman_sebapak">Anak laki-laki dari\nPaman Sebapak</string>
+
+    <string-array name="ahli_items">
+        <item>1. Anak Laki-laki</item>
+        <item>2. Anak Perempuan</item>
+        <item>3. Istri</item>
+        <item>4. Suami</item>
+        <item>5. Bapak</item>
+        <item>6. Ibu</item>
+        <item>7. Kakek (Ayah dari Bapak)</item>
+        <item>8. Nenek (Ibu dari Bapak)</item>
+        <item>9. Nenek (Ibu dari Ibu)</item>
+        <item>10. Cucu Laki-laki</item>
+        <item>11. Cucu Perempuan</item>
+        <item>12. Saudara Kandung</item>
+        <item>13. Saudari Kandung</item>
+        <item>14. Saudara Sebapak</item>
+        <item>15. Saudari Sebapak</item>
+        <item>16. Saudara Seibu</item>
+        <item>17. Saudari Seibu</item>
+        <item>18. Anak laki-laki dari Saudara/i Sekandung</item>
+        <item>19. Anak laki-laki dari Saudara/i Sebapak</item>
+        <item>20. Paman Kandung</item>
+        <item>21. Paman Sebapak</item>
+        <item>22. Anak laki-laki dari Paman Kandung</item>
+        <item>23. Anak laki-laki dari Paman Sebapak</item>
+    </string-array>
+
+    <!-- definisi -->
+    <string name="mat_definisi">Definisi Faraid</string>
+    <string name="mat_definisi_desc"><![CDATA[<i><b>Faraid</i></b> adalah jamak dari <i><b>faridhoh</i></b> diambil dari kata <i><b>fardh</i></b> yang artinya takdir (ketentuan). Fardh secara syar&#39;i adalah bagian yang telah ditentukan bagi ahli waris. Ilmu mengenai hal itu dinamakan ilmu waris (&#39;ilmu miirats) dan ilmu Faroidh.<br><br><b><i>Al-miirats</i></b> (<font color=#FF0000>الميراث</font>) dalam bahasa Arab adalah bentuk mashdar (infinitif) dari kata <b><i>waritsa-yaritsu-irtsan-miiraatsan</i></b> (<font color=#FF0000>وَرِثَ يَرِثُ إِرْثًا وَمِيْرَاثًا</font>). Maknanya menurut bahasa ialah &#39;berpindahnya sesuatu dari seseorang kepada orang lain&#39;, atau dari suatu kaum kepada kaum lain.<br><br>Pengertian menurut bahasa ini tidaklah terbatas hanya pada hal-hal yang berkaitan dengan harta, tetapi mencakup harta benda dan non harta benda.<br><br>Ayat-ayat Al-Qur&#39;an banyak menegaskan hal ini, demikian pula sabda Rasulullah SAW. Di antaranya Allah berfirman: <br><b><i>&#34;Dan Sulaiman telah mewarisi Daud ...&#34;</i></b> (an-Naml: 16)<br><b><i>&#34;... Dan Kami adalah yang mewarisinya.&#34;</i></b> (al-Qashash: 58)<br><br>Selain itu kita dapati dalam hadits Nabi SAW.:<br><b><i>&#39;Ulama adalah ahli waris para nabi&#39;.</i></b><br> <br>Sedangkan makna <b>al-miirats</b> menurut istilah yang dikenal para ulama ialah berpindahnya hak kepemilikan dari orang yang meninggal kepada ahli warisnya yang masih hidup, baik yang ditinggalkan itu berupa harta (uang), tanah, atau apa saja yang berupa hak milik legal secara syar&#39;i.]]></string>
+
+    <!-- ayat -->
+    <string name="mat_ayat"><b>Ayat-ayat Waris</b></string>
+    <string name="mat_ayat_desc"><![CDATA[Adapun ayat waris yang terdapat dalam kitab suci Al-Qur&#39;an adalah sebagai berikut.<br><br><b>QS. An-Nisa ayat 11:</b><br>]]></string>
+    <string name="mat_ayat_desc1"><![CDATA[<i>Artinya:<br><font>Allah mensyari&#39;atkan bagimu tentang (pembagian pusaka untuk) anak-anakmu. Yaitu: bahagian seorang anak lelaki sama dengan bagahian dua orang anak perempuan; dan jika anak itu semuanya perempuan lebih dari dua, maka bagi mereka dua pertiga dari harta yang ditinggalkan; jika anak perempuan itu seorang saja, maka ia memperoleh separo harta. Dan untuk dua orang ibu-bapa, bagi masing-masingnya seperenam dari harta yang ditinggalkan, jika yang meninggal itu mempunyai anak; jika orang yang meninggal tidak mempunyai anak dan ia diwarisi oleh ibu-bapanya (saja), maka ibunya mendapat sepertiga; jika yang meninggal itu mempunyai beberapa saudara, maka ibunya mendapat seperenam. (Pembagian-pembagian tersebut di atas) sesudah dipenuhi wasiat yang ia buat atau (dan) sesudah dibayar hutangnya. (Tentang) orang tuamu dan anak-anakmu, kamu tidak mengetahui siapa di antara mereka yang lebih dekat (banyak) manfaatnya bagimu. Ini adalah ketetapan dari Allah. Sesungguhnya Allah Maha Mengetahui lagi Maha Bijaksana</i>. (QS. An-Nisa : 11)</font><br><br><b>QS. An-Nisa ayat 12:</b><br>]]></string>
+    <string name="mat_ayat_desc2"><![CDATA[<i>Artinya:<br><font>Dan bagimu (suami-suami) seperdua dari harta yang ditinggalkan oleh isteri-isterimu, jika mereka tidak mempunyai anak. Jika isteri-isterimu itu mempunyai anak, maka kamu mendapat seperempat dari harta yang ditinggalkannya sesudah dipenuhi wasiat yang mereka buat atau (dan) seduah dibayar hutangnya. Para isteri memperoleh seperempat harta yang kamu tinggalkan jika kamu tidak mempunyai anak. Jika kamu mempunyai anak, maka para isteri memperoleh seperdelapan dari harta yang kamu tinggalkan sesudah dipenuhi wasiat yang kamu buat atau (dan) sesudah dibayar hutang-hutangmu. Jika seseorang mati, baik laki-laki maupun perempuan yang tidak meninggalkan ayah dan tidak meninggalkan anak, tetapi mempunyai seorang saudara laki-laki (seibu saja) atau seorang saudara perempuan (seibu saja), maka bagi masing-masing dari kedua jenis saudara itu seperenam harta. Tetapi jika saudara-saudara seibu itu lebih dari seorang, maka mereka bersekutu dalam yang sepertiga itu, sesudah dipenuhi wasiat yang dibuat olehnya atau sesudah dibayar hutangnya dengan tidak memberi mudharat (kepada ahli waris). (Allah menetapkan yang demikian itu sebagai) syari&#39;at yang benar-benar dari Allah, dan Allah Maha Mengetahui lagi Maha Penyantun.</i> (QS. An-Nisa : 176)</font><br><br><b>QS. An-Nisa ayat 176:</b><br>]]></string>
+    <string name="mat_ayat_desc3"><![CDATA[<i>Artinya:<br><font>Mereka meminta fatwa kepadamu (tentang kalalah). Katakanlah: &#34;Allah memberi fatwa kepadamu tentang kalalah (yaitu): jika seorang meninggal dunia, dan ia tidak mempunyai anak dan mempunyai saudara perempuan, maka bagi saudaranya yang perempuan itu seperdua dari harta yang ditinggalkannya, dan saudaranya yang laki-laki mempusakai (seluruh harta saudara perempuan), jika ia tidak mempunyai anak; tetapi jika saudara perempuan itu dua orang, maka bagi keduanya dua pertiga dari harta yang ditinggalkan oleh yang meninggal. Dan jika mereka (ahli waris itu terdiri dari) saudara-saudara laki dan perempuan, maka bahagian seorang saudara laki-laki sebanyak bahagian dua orang saudara perempuan. Allah menerangkan (hukum ini) kepadamu, supaya kamu tidak sesat. Dan Allah Maha Mengetahui segala sesuatu.</i> (QS. An-Nisa : 176)</font><br>]]></string>
+
+    <!-- hadits -->
+    <string name="mat_hadits"><b>Hadits-hadits Waris</b></string>
+    <string name="mat_hadits_desc"><![CDATA[Ada begitu banyak dalil sunnah nabi yang menunjukkan pensyariatan hukum waris buat umat Islam. Untuk lebih memudahkan penelusuran maka hadits-hadits yang berkaitan dengan persoalan waris ini diantaranya sebagai berikut:<br><br><b>Cara Mengadakan Pembagian Warisan</b><br>Menyangkut cara pembagian warisan ini dapat ditemukan ketentuan hukumnya dalam sebuah hadits dari Ibnu Abbas ra., ia berkata: Rasullulah saw Bersabda: &quot;<i>Serahkanlah pembagian warisan itu kepada ahlinya, dan bila ada yang tersisa, maka berikanlah kepada keluarga laki-laki terdekat</i>&#34; (Hadits disepakati Imam Al-Bukhari dan Imam Muslim).<br><br><b>Orang yang Berbeda Agama Tidak Saling Waris-Mewarisi</b><br>Dalam hukum Islam ditetapkan bahwa orang yang berbeda agama tidak saling waris-mewarisi, dasar hukum tentang hal ini dapat ditemukan dalam hadits Usamah putra Zaid ra., ia berkata: Bahwasannya Rasululah saw Bersabda: &#34;<i>Orang Islam tidak punya hak waris atas orang kafir dan orang kafir tidak punya hak waris atas orang Islam</i>&#34;. (Hadits disepakati Imam Al-Bukhari dan Imam Muslim).<br><br><b>Bagian Anak Perempuan, Cucu Perempuan dan Saudara Perempuan </b><br>Adapun yang dimaksud dengan bagian anak perempuan, cucu perempuan dan saudara perempuan di sini adalah apabila tidak ada ahli waris laki-laki, dengan kata lain ahli waris yang tinggal keseluruhannya perempuan.<br>Pembagian dalam hal seperti ini dapat ditemukan ketentuannya dalam hadits dari Ibnu Mas&#39;ud ra., ia berkata tentang anak perempuan, cucu perempuan dan saudara perempuan, maka Rasulullah saw. Menghukumi bagi anak perempuan separuh bagian, cucu perempuan dari anak laki-laki seperenam bagian dan sebagai pelengkap dari sepertiga dan sisanya untuk saudara perempuan. (Hadits diriwayatkan oleh Imam Al-Bukhari).<br><br><b>Bagian Kakek dari Harta Warisan Cucunya</b><br>Menyangkut bagian kakek dari harta warisan cucu laki-lakinya yang meninggal dapat ditemukan dalam hadits dari Imran putra Hushain ra., ia berkata: &#34;<i>Sesungguhnya cucu laki-laki telah meninggal dunia, maka berapakah warisan yang harus kuterima?</i>&#34; Jawab Rasullullah SAW: &#34;<i>Kamu mendapat bagian waris seperenam</i>&#34; Setelah Orang itu pergi beliau panggil lagi: &#34;<i>Bagimu seperenam lagi</i>&#34;, dan setelah orang itu pergi beliau panggil lagi: &#34;</i>Sesungguhnya seperenam yang ini adalah tambahan</i>&#34; (Hadits diriwayatkan oleh Imam Ahmad dan Imam yang empat).<br><br><b>Bagian Nenek dari Cucu yang Tidak Mempunyai Ibu</b><br>Dalam hal seorang cucu meninggal dunia dan tidak mempunyai ibu, maka bagian nenek dalam hadits diterangkan sebagai berikut : Dari Ibnu Buraidah dari Ayahnya ra., ia berkata : &#34;<i>Rasullullah saw. Menetapkan seperenam buat nenek bila cucunya itu (yang meninggal dunia) tidak mempunyai ibu</i>&#34;. (Hadits diriwayatkan oleh Imam Abu Dawud dan An-Nasa&#39;i).<br><br><b>Paman Menjadi Ahli Waris Keponakannya</b><br>Dalam hal paman menjadi ahli waris dari keponakannya ini dapat diketemukan dasar hukumnnya dalam hadits yang diriwayatkan dari Miqdam putra Ma&#39;di Kariba ra., ia berkata: &#34;<i>Bersabda Rasulullah saw.: Paman itu ialah ahli warisnnya orang (keponakan) yang tidak mempunyai ahli waris&#34;</i>. (Hadits diriwayatkan oleh Imam Ahmad dan Imam empat, kecuali At-Tirmidzi).<br><br><b>Bayi Sama Haknya dengan Orang Dewasa</b><br>Dalam hukum waris Islam perolehan hak waris tidak dibedakan antara seseorang yang belum dewasa dengan seseorang yang dewasa, ketentuan ini ditemukan dalam hadits dari Jabir ra., ia berkata : &#34;<i>Bayi yang sudah dapat menangis itu pun termasuk ahli waris</i>&#34;. (Hadits diriwayatkan oleh Abu Dawud).<br><br><b>Pembunuh Pewaris tidak Menjadi Ahli Waris</b><br>Dalam ketentuan hukum Islam, bahwa seseorang yang membunuh pewaris tidaklah menjadi ahli waris dari yang dibunuhnya, hal ini dengan tegas ditemukan dalam hadits dari Amr putra Syu&#39;aib, dari ayahnya, dari kakeknya ra, Bersabda Rasulullah saw: &#34;<i>Bagi pembunuh tidak punya hak warisan sedikit pun&#34;</i>. (Hadits diriwayatkan oleh An-Nasa&#39;i dan Ad-Daruquthni).<br><br><b>Tentang <i>Ashabah</i></b><br>Menyangkut ketentuan tentang ashabah dapat ditemukan dalam beberapa hadits antara lain Hadits yang diriwayatkan oleh Al-Bukhari dan Muslim, dari Ibnu Abbas ra., bahwa Rasulullah saw bersabda: &#34;<i>Berikanlah bagian-bagian yang telah ditentukan itu kepada pemiliknya yang berhak menurut nash dan apa yang tersisa maka berikanlah kepada ashabah laki-laki yang terdekat kepada si mayit. Jadikanlah saudara-saudara perempuan dan anak-anak perempuan itu satu ashabah</i>&#34;.<br><br><b>Tentang <i>Aul</i></b><br><i>Aul</i> atau <i>Al-Aul</i> adalah bertambahnya pembagi sehingga berkurangnnya bagian bagi ahli waris yang disebabkan oleh banyaknya <i>ashabul furudh</i> sedangkan jumlah seluruh bagiannya telah melebihi nilai 1. Persoalan <i>aul</i> ini timbul pertama kalinya pada waktu sesuatu persoalan diajukan kepada Umar ra., dan untuk memecahkan persoalan tersebut Umar memutuskan bahwa penyelesaiannya harus dengan <i>aul</i> dan ia berkata kepada sahabat yang ada disisinya: &#34;<i>Jika aku mulai memberikan kepada suami atau 2 orang saudara perempuan, maka tidak ada hak yang sempurna bagi yang lain, maka berikanlah aku pertimbangan</i>&#34;, maka Abbas bin Abdul Muthalib pun memberikan pertimbangan kepadanya dengan <i>aul</i>.<br><br><b>Tentang Waktu Menetapkan Kematin</b><br>Adapun yang dimaksudkan dengan menetapkan kematian adalah bila seseorang pergi dan terputus sama sekali kabar beritanya, tidak diketahui tempatnya dan juga tidak diketahui apakah dia masih hidup atau sudah mati. Untuk masalah ini dapat dipedomani riwayat dari Malik ra., bahwa dia berkata: &#34;<i>empat tahun</i>&#34;, karena Umar ra., berkata: &#34;<i>Setiap istri yang ditinggalkan pergi oleh suaminya, sedang dia tidak megetahui di mana suaminya, maka dia menunggu empat tahun kemudian dia ber-iddah selama empat bulan sepuluh hari, kemudian lepaslah dia</i>&#34;. (Hadits Riwayat Al-Bukhari dan Asy-Syafi&#39;i).<br><br><br>]]></string>
+
+    <!-- hak waris -->
+    <string name="mat_hak_waris"><b>Hak-hak Waris</b></string>
+    <string name="mat_hak_waris_desc"><![CDATA[Hak-hak yang berhubungan dengan harta peninggalan itu ada empat. Keempatnya tidak sama kedudukannya, sebagiannya ada yang lebih kuat dari yang lain sehingga ia didahulukan atas yang lain untuk dikeluarkan dari peninggalan. Hak-hak tersebut adalah:<br><ol><li align=\"justify\">Semua keperluan dan pembiayaan pemakaman pewaris hendaknya menggunakan harta miliknya, dengan catatan tidak boleh berlebihan. Seperti mengkafani dan memperlengkapinya menurut cara yang telah diatur dalam masalah jenazah</li><li align=\"justify\">Hendaklah utang piutang yang masih ditanggung pewaris ditunaikan terlebih dahulu. Hal ini berdasarkan sabda Rasulullah saw.: &#34;<i>Jiwa (ruh) orang mukmin bergantung pada utangnya hingga ditunaikan.</i>&#34;</li><li align=\"justify\">Wajib menunaikan seluruh wasiat pewaris selama tidak melebihi jumlah sepertiga dari seluruh harta peninggalannya. Hal ini jika memang wasiat tersebut diperuntukkan bagi orang yang bukan ahli waris, serta tidak ada protes dari salah satu atau bahkan seluruh ahli warisnya. Adapun penunaian wasiat pewaris dilakukan setelah sebagian harta tersebut diambil untuk membiayai keperluan pemakamannya, termasuk diambil untuk membayar utangnya.<br>Bila ternyata wasiat pewaris melebihi sepertiga dari jumlah harta yang ditinggalkannya, maka wasiatnya tidak wajib ditunaikan kecuali dengan kesepakatan semua ahli warisnya.</li><li align=\"justify\">Setelah semua hak yang 3 sudah terpenuhi, barulah seluruh harta peninggalan pewaris dibagikan kepada para ahli warisnya sesuai ketetapan Al-Qur&#39;an, As-Sunnah</li></ol>]]></string>
+
+    <!-- rukun waris -->
+    <string name="mat_rukun_waris"><b>Rukun Waris</b></string>
+    <string name="mat_rukun_waris_desc"><![CDATA[Untuk terjadinya sebuah pembagian harta waris, maka harus terpenuhi tiga rukun waris. Bila salah satu dari tiga rukun ini tidak terpenuhi, maka tidak terjadi pewarisan. Berikut adalah rukun waris:<br><ol align=\"justify\"><li>Pewaris<br>Yaitu orang yang meninggal dunia, dan ahli warisnya berhak untuk mewarisi harta peninggalannya.</li><li>Ahli waris<br>Yaitu mereka yang berhak untuk menguasai atau menerima harta peninggalan pewaris dikarenakan adanya ikatan kekerabatan (nasab) atau ikatan pernikahan, atau lainnya.</li><li>Harta warisan<br>Yaitu segala jenis benda atau kepemilikan yang ditinggalkan pewaris, baik berupa uang, tanah, dan sebagainya.</li></ol>]]></string>
+
+    <!-- syarat waris -->
+    <string name="mat_syarat_waris"><b>Sebab dan Syarat Waris</b></string>
+    <string name="mat_syarat_waris_desc"><![CDATA[Selain rukun, juga ada syarat-syarat yang harus terpenuhi untuk sebuah pewarisan. Bilamana salah satu dari syarat-syarat tersebut tidak terpenuhi, maka tidak terjadi pewarisan. Syarat pewarisan ada tiga, yaitu:<ol align=\"justify\"><li>Meninggalnya <i>Muwarrits</i><br>Ada dua macam meninggal yang dikenal oleh para ulama ahli <i>fiqih</i>, yaitu meninggal secara hakiki dan meninggal secara hukum. Meninggal secara hakiki adalah ketika ahli medis menyatakan bahwa seseorang sudah tidak lagi bernyawa, dimana unsur kehidupan telah lepas dari jasad seseorang. Meninggal secara hukum adalah seseorang yang oleh hakim ditetapkan telah meninggal dunia, meski jasadnya tidak ditemukan. Seperti orang yang hilang di laut.</li><li>Hidupnya Ahli Waris<br>Hidup yang dimaksud adalah hidup secara hakiki pada waktu pewaris meninggal dunia. Orang yang akan menerima warisan haruslah masih hidup secara hakiki ketika pewaris meninggal dunia.</li><li>Ahli Waris Diketahui<br>Seluruh ahli waris diketahui secara pasti, termasuk jumlah ahli waris dari masing-masing, misalnya suami, istri, kerabat, dan sebagainya, sehingga pembagi mengetahui dengan pasti jumlah bagian yang harus diberikan kepada masing-masing ahli waris. Sebab, dalam hukum waris perbedaan jauh-dekatnya kekerabatan akan membedakan jumlah yang diterima.</li></ol><br><p align=\"justify\">Ada tiga sebab yang menjadikan seseorang mendapatkan hak waris:</p><ol align=\"justify\"><li>Kerabat hakiki<br>Yaitu hubungan yang ada ikatan keluarga (<i>nasab</i>), seperti bapak, ibu, anak, saudara, paman, dan seterusnya.</li><li>Pernikahan<br>Yaitu terjadinya pernikahan (<i>akad nikah</i>) secara legal (<i>syar&#39;i</i>) antara seorang laki-laki dan perempuan, sekalipun belum atau tidak terjadi hubungan badan antar keduanya</li><li><i>Al-Wala</i> (Membebasan budak)<br>Yaitu kekerabatan karena sebab hukum. Disebut juga <i>wala al-&#39;itqi</i> dan <i>wala an-ni&#39;mah</i>. Yang menjadi penyebab adalah kenikmatan pembebasan budak yang dilakukan seseorang. Maka dalam hal ini orang yang membebaskannya mendapat kenikmatan berupa kekerabatan yang dinamakan <i>wala al-&#39;itqi</i>.</li></ol>]]></string>
+
+    <!-- syarat waris -->
+    <string name="mat_penghalang_waris"><b>Penghalang Hak Waris</b></string>
+    <string name="mat_penghalang_waris_desc"><![CDATA[Penggugur hak waris seseorang maksudnya kondisi yang menyebabkan hak waris seseorang menjadi gugur atau tidak termasuk ke dalam ahli waris, meskipun secara ikatan keluarga (nasab) berhubungan. Dalam hal ini ada tiga:<ol align=\"justify\"><li>Budak<br>Seseorang yang berstatus sebagai budak tidak mempunyai hak untuk mewarisi sekalipun dari saudaranya. Sebab segala sesuatu yang dimiliki budak, secara langsung menjadi milik tuannya. Baik budak itu sebagai <i>qinnun</i> (budak murni), <i>mudabbar</i> (budak yang telah dinyatakan merdeka jika tuannya meninggal), atau <i>mukatab</i> (budak yang telah menjalankan perjanjian pembebasan dengan tuannya, dengan persyaratan yang disepakati kedua belah pihak). Maka dari itu, semua jenis budak merupakan penggugur hak untuk mewarisi dan hak untuk diwarisi disebabkan mereka tidak mempunyai hak milik.</li><li>Pembunuhan<br>Apabila seorang ahli waris membunuh pewaris (misalnya seorang anak membunuh  bapaknya), maka ia tidak berhak mendapatkan warisan.</li><li>Perbedaan Agama<br>Seorang muslim tidak dapat mewarisi ataupun diwarisi oleh orang non muslim, apa pun agamanya.</li></ol>]]></string>
+
+    <!-- masalah waris -->
+    <string name="mat_masalah_1">Banci (fukaha)</string>
+    <string name="mat_masalah_2">Orang Hilang</string>
+    <string name="mat_masalah_3">Janin Dalam Kandungan</string>
+    <string name="mat_masalah_4">Dzawil Arham</string>
+    <string name="mat_masalah_5">Zina dan Li\'an</string>
+    <string name="mat_masalah_6">Mati Bersama</string>
+    <string name="mat_masalah_7">Saudara Sesusu</string>
+    <string name="mat_masalah_1_head">Banci (Fukaha/Mempunyai dua kelamin)</string>
+    <string name="mat_masalah_1_desc"><![CDATA[Definisi: Fuqaha ialah orang yang mempunyai alat kelamin laki-laki dan kelamin wanita dalam satu tubuh, atau bahkan tidak mempunyai alat kelamin sama sekali. Jadi, yang dimaksud banci disini, bukan para banci laki-laki yang sering kita lihat di jalan-jalan, yang berprofesi sebagai penghibur, sebab mereka sebenarnya mempunyai jenis kelamin satu, hanya saja mereka bertingkah laku menyerupai wanita.<br><br>Ada tiga pendapat yang masyhur di kalangan ulama mengenai pemberian hak waris kepada banci musykil ini:<ol align=\"justify\"><li>Mazhab Hanafi berpendapat bahwa hak waris banci adalah yang paling sedikit bagiannya di antara keadaannya sebagai laki-laki atau wanita. Dan ini merupakan salah satu pendapat Imam Syafi\'i serta pendapat mayoritas sahabat.</li><li>Mazhab Maliki berpendapat, pemberian hak waris kepada para banci hendaklah tengah-tengah di antara kedua bagiannya. Maksudnya, mula-mula permasalahannya dibuat dalam dua keadaan, kemudian disatukan dan dibagi menjadi dua, maka hasilnya menjadi hak bagian banci.</li><li>Mazhab Syafi\'i berpendapat, bagian setiap ahli waris banci diberikan dalam jumlah yang paling sedikit. Karena pembagian seperti ini lebih meyakinkan bagi tiap-tiap ahli waris. Sedangkan sisanya (dari harta waris yang ada) untuk sementara tidak dibagikan kepada masing-masing ahli waris hingga telah nyata keadaan yang semestinya. Inilah pendapat yang dianggap paling rajih (kuat) di kalangan mazhab Syafi\'i.</li></ol><p align=\"justify\">Untuk banci, menurut pendapat yang paling rajih, hak waris yang diberikan kepadanya hendaklah yang paling sedikit di antara dua keadaannya, yakni keadaan bila ia sebagai laki-laki dan sebagai wanita. Kemudian untuk sementara sisa harta waris yang menjadi haknya dibekukan sampai statusnya menjadi jelas, atau sampai ada kesepakatan tertentu di antara ahli waris, atau sampai banci itu meninggal hingga bagiannya berpindah kepada ahli warisnya.<br><br>Makna pemberian hak banci dengan bagian paling sedikit menurut kalangan ahli faraid adalah jika banci dinilai sebagai wanita bagiannya paling sedikit, maka hak waris yang diberikan kepadanya adalah hak waris wanita; dan bila dinilai sebagai laki-laki dan bagiannya ternyata paling sedikit, maka divonis sebagai laki-laki. Bahkan, bila ternyata dalam keadaan di antara kedua status harus ditiadakan haknya, maka diputuskan bahwa banci tidak mendapatkan hak waris.<br><br>Bahkan dalam mazhab Imam Syafi\'i, bila dalam suatu keadaan salah seorang dari ahli waris gugur haknya dikarenakan adanya banci dalam salah satu dari dua status (yakni sebagai laki-laki atau wanita), maka gugurlah hak warisnya.</p>]]></string>
+    <string name="mat_masalah_2_head">Orang yang Hilang</string>
+    <string name="mat_masalah_2_desc"><![CDATA[Definisi: Orang yang hilang (mafquud) adalah orang yang tidak diketahui lagi hidup atau matinya, atau orang yang terputus beritanya, dan tidak diketahui dimana ia kini berada. Para fuqaha telah menetapkan beberapa hukum yang berkenaan dengan orang yang hilang, diantaranya adalah:<ul align=\"justify\"><li>Istrinya tidak boleh dinikahi / dinikahkan</li><li>Hartanya tidak boleh diwariskan, dan hak kepemilikannya tidak boleh diusik, sampai benar-benar diketahui keadaannya apakah ia masih hidup atau sudah mati. Atau telah berlalu selama waktu tertentu dan diperkirakan secara umum telah mati, dan qadhi (hakim) pun telah menetapkannya sebagai orang yang dianggap telah mati</li></ul><p align=\"justify\">Kadang-kadang bisa juga ditetapkan sebagai orang yang masih hidup berdasarkan asalnya, hingga benar-benar tampak dugaan yang sebaliknya (yakni benar-benar sudah mati). Yang demikian itu berdasarkan ucapan Ali bin Abi Thalib r.a. tentang wanita yang suaminya hilang dan tidak diketahui rimbanya. Ali berkata: \"<i>Dia adalah seorang istri yang tengah diuji, maka hendaknya dia bersabar, dan tidak halal untuk dinikahi hingga ia mendapatkan berita yang meyakinkan akan kematian suaminya.</i>\"<br><br>Ada perbedaan pendapat di kalangan ulama dalam masalah ini terutama para ulama dari mazhab yang empat:</p><ul align=\"justify\"><li>Mazhab Hanafi berpendapat bahwa orang yang hilang dan tidak dikenal rimbanya dapat dinyatakan sebagai orang yang sudah mati dengan melihat orang yang sebaya di wilayahnya, yakni tempat dia tinggal. Apabila orang-orang yang sebaya dengannya sudah tidak ada, maka ia dapat diputuskan sebagai orang yang sudah meninggal. Dalam riwayat lain, dari Abu Hanifah, menyatakan bahwa batasnya adalah sembilan puluh tahun.</li><li>Sedangkan mazhab Maliki berpendapat bahwa batasnya adalah tujuh puluh tahun. Hal ini didasarkan pada lafazh hadits secara umum yang menyatakan bahwa umur umat Muhammad saw. antara enam puluh hingga tujuh puluh tahun.</li><li>Sedangkan dalam mazhab Syafi\'i dinyatakan bahwa batas waktu orang yang hilang adalah sembilan puluh tahun, yakni dengan melihat umur orang-orang yang sebaya di wilayahnya. Namun, pendapat yang paling sahih menurut anggapan Imam Syafi\'i ialah bahwa batas waktu tersebut tidak dapat ditentukan atau dipastikan. Akan tetapi, cukup dengan apa yang dianggap dan dilihat oleh hakim, kemudian divonisnya sebagai orang yang telah mati. Karena menurut Imam Syafi\'i, seorang hakim hendaknya berijtihad kemudian memvonis bahwa orang yang hilang dan tidak lagi dikenal rimbanya sebagai orang yang sudah mati, sesudah berlalunya waktu tertentu.</li><li>Sementara itu, mazhab Hambali berpendapat bahwa bila orang yang hilang itu dalam keadaan yang dimungkinkan kematiannya seperti jika terjadi peperangan, atau menjadi salah seorang penumpang kapal yang tenggelam, maka hendaknya dicari kejelasannya selama empat tahun. Apabila setelah empat tahun belum juga diketemukan atau belum diketahui beritanya, maka hartanya boleh dibagikan kepada ahli warisnya. Demikian juga istrinya, ia dapat menempuh masa idahnya, dan ia boleh menikah lagi setelah masa idah yang dijalaninya selesai.</li></ul>]]></string>
+    <string name="mat_masalah_3_head">Janin Dalam Kandungan</string>
+    <string name="mat_masalah_3_desc"><![CDATA[Janin dalam kandungan berhak menerima waris dengan memenuhi dua persyaratan:<ol align=\"justify\"><li>Janin tersebut diketahui secara pasti keberadaannya dalam kandungan ibunya ketika pewaris wafat. Bayi tersebut dilahirkan maksimal 4 tahun setelah kematian pewaris, dan ibu yang mengandung tersebut tidak pernah melakukan hubungan intim dengan laki-laki lain selain pewaris wafat, hingga bayi tersebut lahir. Aisyah r.a. berpendapat bahwa janin tidak akan menetap dalam rahim ibunya melebihi dari dua tahun sekalipun berada dalam <i>falkah mighzal</i>, sedangkan Imam Ahmad berpendapat maksimal 4 tahun. Namun menurut pendapat lain, jika setelah kematian pewaris tidak ada seorang laki-lakipun yang berhubungan intim dengan wanita tersebut, kemudian setelah 4 tahun tiba-tiba ia melahirkan bayinya, maka bayi tersebut adalah anak dari pewaris.</li><li>Bayi tersebut dilahirkan dalam keadaan hidup ketika keluar dari perut ibunya, sehingga dapat dipastikan sebagai anak yang berhak mendapat warisan. Tanda-tanda bahwa bayi tersebut lahir dalam keadaan hidup diantaranya adalah bayi tersebut menangis, bersin, mau menyusu ke ibunya, atau yang semacamnya. Hal ini berdasarkan sabda Nabi saw., \"<i>Apabila seorang bayi sudah menangis, maka ia berhak mendapatkan warisan.\"(HR. Abu Daud, An-Nasa\'i, dan Ibnu Majah)  Bahkan, menurut mazhab Hanafi, hal ini bisa ditandai dengan gerakan apa saja dari bayi tersebut. Adapun menurut mazhab Syafi\'i dan Hambali, bayi yang baru keluar dari dalam rahim ibunya dinyatakan hidup bila melakukan gerakan yang lama hingga cukup menunjukkan adanya kehidupan. Bila gerakan itu hanya sejenak, seperti gerakan hewan yang dipotong, maka tidak dinyatakan sebagai bayi yang hidup. Dengan demikian, ia tidak berhak mewarisi. Namun, apabila bayi yang keluar dari rahim ibunya dalam keadaan mati, atau ketika keluar separo badannya hidup tetapi kemudian mati, atau ketika keluar dalam keadaan hidup tetapi tidak stabil, maka tidak berhak mendapatkan waris, dan ia dianggap tidak ada. Hal ini berdasarkan sabda Rasulullah saw., \"<i>Apabila bayi yang baru keluar dari rahim ibunya menangis (kemudian mati), maka hendaklah dishalati dan berhak mendapatkan warisan.</i>\" (HR. An-Nasa\'i dan Tirmidzi).</i></li></ol><p align=\"justify\">Ada lima keadaan bagi janin dalam kaitannya dengan hak mewarisi. Kelima keadaan tersebut:</p><ol align=\"justify\"><li>Jika janin tersebut bukan sebagai ahli waris dalam keadaan apa pun, baik janin tersebut berkelamin laki-laki ataupun perempuan, maka seluruh harta waris yang ada dibagikan kepada ahli waris lainnya secara langsung, tanpa harus menunggu kelahiran janin yang ada di dalam kandungan, disebabkan janin tersebut tidak termasuk ahli waris dalam segala kondisi;</li><li>Jika janin tersebut dapat mewarisi dalam keadaan memiliki kelamin tertentu (laki-laki atau perempuan), dan bukan sebagai ahli waris dalam keadaan berkelamin banci, maka sebagian tertentu harta waris yang ada dibagikan kepada ahli waris yang ada dengan menganggap bahwa janin yang dikandung adalah salah satu dari ahli waris, namun untuk sementara bagian tertentu dari harta waris dibekukan hingga kelahirannya. Setelah janin lahir dengan selamat, maka hak warisnya secara sempurna diberikan kepadanya dan kepada ahli waris lainnya. Namun, bila lahir dan ternyata bukan termasuk dari ahli waris, maka harta yang dibekukan tadi dibagikan lagi kepada ahli waris yang ada;</li><li>Apabila janin yang ada di dalam kandungan sebagai ahli waris dalam segala keadaannya, hanya saja hak waris yang dimilikinya bisa berbeda-beda nilainya (hal tersebut tergantung dengan jenis kelaminnya), maka dalam keadaan demikian hendaknya kita berikan dua ilustrasi, dan kita bekukan untuk janin dari bagian yang maksimal. Sebab, boleh jadi, jika bayi itu masuk kategori laki-laki, ia akan lebih banyak memperoleh bagian daripada bayi perempuan. Atau terkadang terjadi sebaliknya. Jadi, hendaknya kita berikan bagian yang lebih banyak dari jumlah maksimal kedua bagiannya, dan hendaknya kita lakukan pembagian dengan dua cara dengan memberikan bagian ahli waris yang ada paling sedikit dari bagian-bagian masing-masing;</li><li>Bila bagian janin dalam kandungan tidak berubah baik sebagai laki-laki maupun perempuan, maka kita sisihkan bagian warisnya, dan kita berikan bagian para ahli waris yang ada secara sempurna;</li><li>Apabila tidak ada ahli waris lain selain janin yang di dalam kandungan, atau ada ahli waris lain akan tetapi terhalang haknya karena adanya janin, maka dalam keadaan seperti ini kita tangguhkan pembagian hak warisnya hingga tiba masa kelahiran janin tersebut. Bila janin itu lahir dalam keadaan hidup, maka dialah yang akan mengambil seluruh harta waris, namun jika ia lahir dalam keadaan mati, maka harta waris yang ada akan dibagikan kepada seluruh ahli waris lainnya yang berhak untuk menerimanya.</li></ol>]]></string>
+    <string name="mat_masalah_4_head">Dzawil Arham</string>
+    <string name="mat_masalah_4_desc"><![CDATA[Definisi: Arham adalah bentuk jamak dari kata rahmun/rahim, yang asalnya dalam bahasa Arab berarti \'tempat pembentukan/menyimpan janin dalam perut ibu\'.Kemudian dikembangkan menjadi \'kerabat\', baik datangnya dari pihak ayah ataupun dari pihak ibu. Pengertian ini tentu saja disandarkan karena adanya rahim yang menyatukan asal mereka. Dengan demikian, lafazh rahim tersebut umum digunakan dengan makna kerabat, baik dalam bahasa Arab ataupun dalam istilah syariat Islam.<br><br>Adapun yang dimaksud dengan dzawil arham adalah setiap kerabat pewaris yang tidak termasuk ashhabul furudh dan ashabah, misalnya bibi (saudara perempuan ayah atau ibu), paman dari pihak ibu (saudara laki-laki ibu), keponakan laki-laki dari saudara perempuan, cucu laki-laki dari anak perempuan, dan sebagainya.<br><br><b>Pendapat Beberapa Ulama mengenai Dzawil Arham </b><br>Para imam mujtahid berbeda pendapat dalam masalah hak waris dzawil arham, sama halnya dengan perbedaan pendapat yang terjadi di kalangan para sahabat Rasulullah saw. Dalam hal ini ada dua pendapat:<ol align=\"justify\"><li>Golongan pertama berpendapat bahwa dzawil arham atau para kerabat tidak berhak mendapat waris. Mereka mengatakan bahwa bila harta waris tidak ada ashhabul furudh atau ashabah yang mengambilnya, maka harta warisan dilimpahkan kepada baitulmal kaum muslimin untuk disalurkan demi kepentingan masyarakat Islam pada umumnya. Dengan demikian, tidak dibenarkan jika harta tersebut diberikan kepada dzawil arham. Di antara mereka yang berpendapat demikian ialah Zaid bin Tsabit r.a. dan Ibnu Abbas r.a. dalam sebagian riwayat darinya, dan juga merupakan pendapat dua imam, yaitu Malik dan Syafi\'i rahimahumullah.</li><li>Golongan kedua berpendapat bahwa dzawil arham (kerabat) berhak mendapat waris, bila tidak ada ashhabul furudh, ataupun ashabah yang menerima harta pewaris. Mereka berpendapat bahwa dzawil arham lebih berhak untuk menerima harta waris dibandingkan baitulmal, sebab dzawil arham memiliki kekerabatan dengan pewaris. Pendapat ini merupakan jumhur ulama, di antaranya Umar bin Khathab, Ibnu Mas\'ud, dan Ali bin Abi Thalib. Juga merupakan pendapat Imam Abu Hanifah dan Ahmad bin Hambal rahimahumullah.</li></ol>]]></string>
+    <string name="mat_masalah_5_head">Anak Hasil Zina dan Anak Li\'an</string>
+    <string name="mat_masalah_5_desc"><![CDATA[<b>Definisi Anak yang lahir karena perbuatan zina</b><br>Anak yang lahir karena perbuatan zina adalah anak yang dilahirkan bukan dari hubungan nikah yang sah secara syar\'i atau dengan kata lain, buah dari hubungan haram antara laki-laki dan wanita. Anak yang lahir karena perbuatan zina, status keturunannya adalah hanya dari ibunya, bukan dari ayahnya, karena laki-laki yang menggaulinya bukan sebagai suaminya yang sah.<br><br><b>Definisi Anak Li\'an</b><br>Anak li\'an adalah anak yang dilahirkan dari seorang istri yang sah, dimana suami tersebut tidak mengakuinya sebagai anaknya, karena suami tersebut telah menuduh sang istri telah berzina dengan lelaki lain. Sang suami telah bersumpah bahwa istrinya telah berzina dengan lelaki lain di depan hakim, begitu pula istrinya telah bersumpah dengan tujuan membela diri, bahwa tuduhan suaminya adalah dusta. Maka jika sang istri mengandung, anak tersebut disebut sebagai anak li\'an.<br>Li\'an suami-istri disyariatkan dalam Islam, apabila suami menuduh istrinya berzina, atau suami tidak mengakui anak itu sebagai keturunannya. Allah swt. berfirman, \"<i>Orang-orang yang menuduh istrinya (berzina), padahal mereka tidak mempunyai saksi-saksi selain diri mereka sendiri, maka persaksian orang itu ialah empat kali bersumpah dengan nama Allah, sesungguhnya dia adalah termasuk orang-orang yang benar. (Sumpah) yang kelima: bahwa laknat Allah atasnya, jika dia termasuk orang-orang yang berdusta. Istrinya itu dihindarkan dari hukuman oleh sumpahnya empat kali atas nama Allah, sesungguhnya suaminya itu benar-benar termasuk orang-orang yang dusta, dan (sumpah) yang kelima: bahwa laknat Allah atasnya jika suaminya itu termasuk orang-orang yang benar.</i>\" (an-Nuur [24]: 6-9 )<br><br><b>Hak Waris Untuk Anak Hasil Zina dan Li\'an</b><br>Para ulama fiqih berbeda pendapat tentang warisan untuk anak yang lahir karena perbuatan zina dan anak li\'an. Secara umum, pendapat para ulama fiqih dapat dikelompokkan menjadi tiga pendapat sebagai berikut:<ol align=\"justify\"><li><b>Pendapat Pertama</b><br>Abu Hanifah, Malik, dan Syafi\'i berpendapat bahwa anak tersebut dapat mewarisi dari ibu dan kerabat ibunya, dan ibu serta kerabat ibunya pun dapat mewarisi darinya, sesuai dengan kaidah waris-mewarisi yang sudah diketahui. Ini adalah pendapat Zaid bin Tsabit dalam satu riwayat dari Ali r.a<br>Ibu dapat mewarisi bagian tetap, saudara ibu juga mewarisi bagian tetap, dan sisanya dikembalikan kepada mereka, menurut mereka yang berpendapat adanya pengembalian (ar-radd). Berdasarkan pendapat ini, anak itu tidak bisa mewarisi dari orang lain dan orang lain tidak bisa mewarisi darinya dengan cara ashabah senasab berdasarkan al-ukhuwwah atau al-umumah.<br>Ulama fiqih yang termasuk dalam kelompok pertama ini menjadikan hadits yang diriwayatkan oleh Sahl bin Sa\'du sebagai dalil. \"<i>...Sunnah menetapkan bahwa anak li\'an dapat mewarisi dari ibunya dan ibunya pun dapat mewarisi darinya, dengan bagian yang telah ditetapkan Allah.</i>\" (Nail al-Authar, juz VI, hlm.184)<br>Jumhur ulama juga mempunyai dalil yang menguatkan pendapat mereka bahwa waris-mewarisi harus sesuai dengan ketetapan nash, dan tidak ada nash yang menyatakan bahwa ibu boleh mewarisi lebih dari 1/3, demikian juga dengan saudara seibu, tidak bisa mewarisi lebih dari 1/6.Contohnya, seorang anak yang lahir karena perbuatan zina atau li\'an wafat, meninggalkan warisan berupa tanah seluas 90 hektare dan meninggalkan ahli waris: ibu, ayah, paman dari pihak ibu, dan ayahnya ibu. Dalam kasus ini, seluruh warisan hanya diberikan kepada ibu, karena ia mendapat bagian tetap dan pengembalian (ar-radd). Hal ini disebabkan paman dari pihak ibu dan ayahnya ibu termasuk dalam kelompok dzawil arham, dan ayah si mayit pun tidak mendapatkan apa-apa karena nasabnya terputus.<br>Namun, jika seorang anak yang lahir karena perbuatan zina atau li\'an wafat meninggalkan istri, anak perempuan, dan saudara seibu, maka istri mendapatkan 1/8, anak perempuan 1/2, dan sisanya untuk anak perempuan tersebut. Sedangkan saudara seibu tidak mendapatkan apa-apa, karena ia tidak dapat mewarisi ketika ada bersama pokok atau cabang yang mewarisi.</li><li><b>Pendapat Kedua</b><br>Ahmad bin Hambal berpendapat bahwa anak yang lahir karena perbuatan zina dan li\'an dapat diwarisi dengan cara ashabah. Ashabah-nya adalah mereka yang menjadi ashabah ibunya atau mereka yang mewarisi dari ibunya. Sebagian orang berkata, \"<i>Jika Anda ingin mengetahui ashabah anak li\'an, lihatlah ashabah ibunya kalau ibunya wafat. Itulah yang menjadi ashabah anak li\'an.</i>\"<br>Dalam satu riwayat dari Ibnu Mas\'ud, Ibnu Umar pun berpendapat demikian. Pendapat ini juga dipegang oleh ulama-ulama besar dari kalangan tabi\'in, seperti \'Atha, Mujahid, an-Nakha\'i, dan asy-Sya\'bi. Hadits yang dijadikan dalil oleh para ulama yang berpendapat demikian adalah sabda Rasulullah saw. ketika menjawab pertanyaan mengenai hal ini, \"<i>Ashabah-nya adalah ashabah ibunya.</i>\"<br>Asy-Syaukani berkata ketika menjelaskan pendapat ini, \"<i>Ibu mendapatkan bagiannya, kemudian untuk ashabah ibu secara berurutan. Pembagian tersebut dilakukan, jika tidak ada orang lain selain ibu dan kerabatnya, misalnya anak laki-laki atau istri si mayit. Jika si mayit mempunyai anak laki-laki atau istri, mereka berhak mendapatkan warisan sesuai bagiannya dalam masalah waris-mewarisi.</i>\"<br>Hadits lain yang dijadikan sandaran oleh mereka adalah sabda Nabi saw., \"<i>Berikanlah bagian-bagian itu kepada yang berhak. Jika ada sisa, pertama-tama untuk ahli waris laki-laki yang terdekat.</i>\"<br>Hadits di atas mengharuskan warisan dibagikan kepada laki-laki yang paling dekat dengan anak li\'an dari kerabat ibunya, yang dinasabkan kepada ibunya, setelah bagian ashhabul furudh diberikan. Jikalau nasab anak li\'an berpindah dari ayahnya kepada ibunya, maka berpindah juga ashabahnya dari kerabat ayah kepada kerabat ibu.<br>Berdasarkan pendapat mazhab ini, jika seorang anak yang lahir karena perbuatan zina atau li\'an wafat meninggalkan istri, anak perempuan dan saudara seibu, maka istri mendapatkan 1/8 yang menjadi bagian tetapnya (fardh), anak perempuan mendapatkan &#189; sebagai bagian tetap, dan saudara seibu mendapatkan sisa sebagai ashabah.<br>Jika seorang anak li\'an wafat, meninggalkan ibu dan paman dari pihak ibu, maka ibu mendapatkan bagian 1/3 dan paman dari pihak ibu mendapatkan 2/3 sebagai ashabah.</li><li><b>Pendapat Ketiga</b><br>Ahmad bin Hambal berpendapat bahwa ashabah anak li\'an dan anak yang lahir karena perbuatan zina adalah ibunya karena ibu bagi mereka sama seperti kedua orang tua, yakni ayah dan ibu. Jika tidak ada ibu, ashabah-nya adalah mereka yang menjadi ashabah ibu. Pendapat ini juga disampaikan oleh beberapa tabi\'in, di antaranya Hasan dan Ibnu Sirin.<br>Di sini ada perbedaan pendapat antara mazhab ini dengan mazhab sebelumnya. Pada pendapat kedua, diterangkan bahwa ashabah anak li\'an dan anak yang lahir karena perbuatan zina adalah mereka yang menjadi ashabah ibunya. Kalau sang ibu hidup, dia dapat mengambil bagian tetapnya (fardh) dan sisanya diambil oleh ashabah ibunya.<br>Sedangkan pendapat yang ketiga ini, menerima mereka yang menjadi ashabah ibunya sebagai ashabah anak li\'an dan anak yang lahir karena perbuatan zina, dengan syarat ibunya tidak ada atau meninggal. Jika ibu ada, ibulah yang menjadi ashabah-nya, atau dengan kata lain, sang ibu akan mengambil seluruh harta warisan anak li\'an dan anak yang lahir karena perbuatan zina. Dalil yang dipergunakan oleh para ulama yang pendapat seperti ini adalah sabda Rasulullah saw., \"<i>Perempuan menguasai tiga warisan, warisan budak yang dimerdekakannya, barang yang ditemukannya, dan warisan anak li\'an-nya.</i>\" (HR Abu Daud, Turmudzi, an-Nasa\'i, dan Ibnu Majah)<br>Kalau ibu mewarisi dari budak yang dimerdekakannya dengan cara ashabah, ibu pun mewarisi dari anak li\'an-nya dengan cara ashabah juga, karena ibu sama derajatnya dengan ayah dan ibu si anak li\'an. Sebagai bukti, Ibnu Abbas pernah berkata, \"<i>Ibu anak li\'an adalah ayah dan ibunya.\</i>"<br>Dengan demikian, jika seorang anak li\'an wafat meninggalkan istri, ibu, dan saudara perempuan seibu, maka istri mendapatkan 1/4 sebagai bagian tetap, dan ibu mendapatkan seluruh sisanya, sebagai bagian tetap dan sekaligus sebagai ashabah. Apabila ibu tidak ada, istri mendapatkan 1/4 sebagai bagian tetap dan saudara perempuan mendapatkan sisa sebagai ashabah dan bagian tetap.<br>Jika ia wafat, meninggalkan saudara perempuan seibu dan anak laki-laki dari saudara perempuan seibu, maka saudara perempuan seibu mendapatkan 1/6 dan anak laki-laki dari saudara perempuan seibu mendapatkan sisa sebagai ashabah. Cara pembagian yang demikian sesuai dengan dua pendapat tersebut.<br>Setelah kita memaparkan beberapa pendapat ulama fiqih di atas, tampaklah bagi kita bahwa pendapat ketiga lebih kuat dan dapat diterima, karena memang asal nasab itu dari ayah. Apabila nasab dari pihak ayah terputus, maka secara otomatis seluruh nasabnya berpindah ke ibu, sebagaimana asal ketaatan itu untuk orang yang memerdekakan ayah, kalau ayah budak. Ketaatan dapat kembali berpindah ke ayah sebagai asal, jika ayah dimerdekakan setelah ketaatan pindah ke ibu.<br>Mazhab ini merupakan mazhab Abdullah ibnu Mas\'ud, Imam Ahmad bin Hambal dan Ishaq bin Rahawaih. Ibnul Qayyim berkata, \"<i>Berdasarkan pendapat di atas, Al-Qur\'an telah menunjukkan dengan isyarat yang sangat indah dan halus. Allah menjadikan Isa dari anak-cucu Ibrahim lewat perantara Maryam, ibunya. Maryam pun berasal dari anak cucu Ibrahim. Jika ada yang bertanya, \'Kemudian, bagaimana dengan riwayat dari Sahl yang menjelaskan bahwa Sunnah yang berlaku adalah anak yang lahir karena perbuatan zina dan li\'an dapat mewarisi dari ibunya dan ibunya dapat mewarisi darinya sesuai bagian yang telah ditetapkan Allah?\' Kita jawab, \'Kita terima itu karena ketika ibu menjadi ashabah, tidak menggugurkan bagian yang telah ditetapkan Allah. Sesungguhnya, ibu anak itu seperti ayah, yang terkadang dapat mewarisi bagian tetap dan terkadang mewarisi bagian ashabah. Ibu pasti mengambil bagian tetap-nya, dan jika ada sisa, ia dapat mengambilnya dengan cara ashabah.</i>\"</li></ol>]]></string>
+    <string name="mat_masalah_6_head">Hak Waris Orang yang Mengalami Kematian Bersama</string>
+    <string name="mat_masalah_6_desc"><![CDATA[Yang dimaksud dengan orang yang mengalami kematian bersama adalah orang-orang yang dapat saling waris-mewarisi (memiliki hubungan kerabat), dimana mereka mengalami kecelakaan dalam satu waktu bersamaan, bisa disebabkan karena bencana alam, kebakaran, tabrakan kendaraan, <i>tsunami</i>, gempa bumi, tanah longsor, tenggelam, tertimbun, ataupun hal-hal lainnya.<br><br>Kaidah yang berlaku dalam pembagian hak waris untuk orang yang mengalami kematian bersama adalah dengan cara menentukan mana di antara mereka yang lebih dahulu pertama kali dan yang meninggal kemudian. Hal ini bisa diketahui dengan cara bertanya kepada orang yang menyaksikan, atau adanya salah seorang atau lebih dari mereka yang selamat dari bencana tersebut yang menyaksikan siapa yang paling dulu meninggal, lalu siapa yang hidup kemudian walaupun hidupnya itu hanya sesaat saja. Jika memang keadaannya demikian, pembagian waris akan lebih mudah dilaksanakan, yakni dengan memberikan hak waris kepada orang yang meninggal kemudian. Setelah orang kedua (yang meninggal kemudian) meninggal, maka kepemilikan harta waris tadi berpindah kepada ahli warisnya yang berhak. Dan begitulah seterusnya.<br><br>Namun jika diketahui bahwa mereka meninggal sekaligus, maka mereka tidak dapat saling waris-mewarisi, karena syarat menerima warisan adalah ahli waris dalam keadaan hidup ketika si pemilik harta meninggal, baik meninggal yang hakiki ataupun yang dihukumkan sudah meninggal. Dan syarat ini tidak ada pada kejadian di atas.<br><br>Begitu pula, jika kita tidak mengetahui bagaimana kematian itu terjadi, apakah ia berurutan atau sekaligus, atau bisa jadi kita mengetahui bahwa mereka meninggal secara beruntun, hanya saja tidak diketahui dengan jelas siapa yang lebih dahulu, atau kita mengetahui siapa yang terakhir, hanya kita lupa siapa orangnya, maka terhadap keadaan-keadaan seperti ini, menurut imam yang tiga tidak dapat saling mewarisi. Sedangkan menurut Imam Syafi\'i, jika kita atau saksi lupa urutan siapa yang meninggal pertama dan siapa yang meninggal kemudian, hingga yang meninggal paling terakhir, maka perkara seperti ini harus ditunda dahulu hingga teringat atau saling berdamai. Sedangkan menurut madzhab Imam Ahmad, apabila antara ahli waris berselisih pendapat siapa yang lebih dahulu meninggal sementara masing-masing tidak memiliki bukti, maka mereka harus saling bersumpah, seterusnya mereka tidak lagi saling mewarisi karena tidak ada faktor yang dapat menguatkan. Apabila tidak ada perbedaan pendapat di kalangan ahli waris, maka masing-masing ahli waris mendapat bagian dari harta yang ditinggalkan tidak termasuk harta yang diterimanya sebagai warisan, hal itu demi mencegah terjadinya mata rantai yang tidak diketahui ujung pangkalnya.<br><br></b>Tata Cara Pembagian Waris:</b><br>Jadi menurut pendapat jumhur ulama, yang dapat saling mewarisi adalah orang-orang yang mati secara berurutan, dengan diketahui siapa yang mati pertama kali dan yang mati kemudian. Sebagai contoh, apabila dua orang bersaudara tenggelam secara bersamaan lalu yang seorang meninggal seketika dan yang seorang lagi meninggal setelah beberapa saat kemudian, maka yang mati kemudian inilah yang berhak menerima hak waris, sekalipun masa hidup yang kedua hanya sejenak setelah kematian saudaranya yang pertama. Menurut para ulama ahli faraid, hal ini telah memenuhi syarat hak mewarisi, yaitu hidupnya ahli waris pada saat kematian pewaris. Tata cara pembagian waris untuk keadaan seperti ini sama dengan penanganan kasus <i>munaskahat</i> yang sudah dibahas pada bab sebelumnya.<br>Sedangkan jika keduanya sama-sama tenggelam atau terbakar secara bersamaan kemudian mati tanpa diketahui mana yang lebih dahulu meninggal, maka tidak ada hak waris di antara keduanya atau mereka tidak saling mewarisi. Hal ini sesuai dengan kaidah yang telah ditetapkan oleh ulama faraidh yang menyebutkan: \"<i>Tidak ada hak saling mewarisi bagi kedua saudara yang mati karena tenggelam secara bersamaan, dan tidak pula bagi kedua saudara yang mati karena tertimbun reruntuhan, serta yang meninggal seketika karena kecelakaan dan bencana lainnya.</i>\" Hal demikian, menurut para ulama, disebabkan tidak terpenuhinya salah satu persyaratan dalam mendapatkan hak waris. Maka seluruh harta peninggalan yang ada segera dibagikan kepada ahli waris dari kerabat yang masih hidup.]]></string>
+    <string name="mat_masalah_7_head">Hak Waris Saudara Sesusu</string>
+    <string name="mat_masalah_7_desc"><![CDATA[Dimaksudkan dengan saudara sesusu apabila dua orang pernah menyusu (menetek) dengan perempuan yang sama. Dimaksudkan dengan penyusuan adalah penyusuan yang dilakukan kepada anak yang dibawah usia dua tahun, dan menyusunya (meneteknya) sedikitnya lima kali penyusuan (lima kali penetekan).<br><br>Adapun terhadap saudara sesusuan adalah haram untuk dikawini. Hadis Rasulullah SAW menyatakan: \"<i>Sesungguhnya Allah mengharamkan oleh sebab menyusu, seperti apa yang diharamkan oleh sebab hubungan nasab</i>\" (HR. Ahmad dan At-Tirmidzi).<br><br>Adapun dalam hal waris-mewarisi, maka saudara sesusuan <b>tidak bisa saling mewarisi dengan saudara sesusuannya</b> menurut ijma\' (kesepakatan) ulama. Karena menyusu bukanlah sebab dari sebab-sebab waris.]]></string>
+
+    <!-- ahli waris -->
+    <string name="ahl_bagian"><b>Bagian</b></string>
+    <string name="ahl_syarat"><b>Syarat</b></string>
+    <string name="bag_ashabah">Ashabah (Sisa Harta)</string>
+    <string name="bag_seluruh">Seluruh Harta</string>
+    <string name="bag_samarata">Sama Rata</string>
+    <string name="bag_setengah">&#189;</string>
+    <string name="bag_seperempat">&#188;</string>
+    <string name="bag_seperenam">1/6</string>
+    <string name="bag_seperenamsisa">1/6 + Sisa</string>
+    <string name="bag_seperdelapan">1/8</string>
+    <string name="bag_duapertiga">2/3</string>
+    <string name="bag_sepertiga">&#8531; + Sisa</string>
+    <string name="bag_sepertiga_">&#8531;</string>
+    <string name="bag_terhalang">Terhalang</string>
+
+    <!-- anak laki-laki -->
+    <string name="al_sy1">Bersama Waris fardu</string>
+    <string name="al_sy2">Seorang Diri (Ahli waris tunggal)</string>
+    <string name="al_sy3">Lebih dari seorang</string>
+
+    <!-- anak perempuan -->
+    <string name="ap_sy1">Seorang Diri</string>
+    <string name="ap_sy2">Dua Orang Atau Lebih</string>
+    <string name="ap_sy3">Bersama Anak Laki-Laki</string>
+
+    <!-- istri -->
+    <string name="is_sy1">Tidak Mempunyai Anak atau Cucu dari Anak Laki-laki</string>
+    <string name="is_sy2">Mempunyai Anak atau Cucu dari Anak Laki-laki</string>
+
+    <!-- suami -->
+    <string name="suam_sy1">Mempunyai Anak atau Cucu dari Anak Laki-laki</string>
+    <string name="suam_sy2">Tidak Mempunyai Anak atau Cucu dari Anak Laki-laki</string>
+
+    <!-- bapak -->
+    <string name="bp_sy1">Mempunyai Anak atau mempunyai Cucu dari Anak Laki-laki</string>
+    <string name="bp_sy2">Bersama Ahli waris Wanita dan tidak ada ahli waris laki-laki</string>
+    <string name="bp_sy3">Tidak Mempunyai Anak atau tidak mempunyai Cucu dari Anak Laki-Laki</string>
+    <string name="bp_sy4">Seorang Diri (Penerima waris Tunggal)</string>
+
+    <!-- ibu -->
+    <string name="ibu_sy1">Mempunyai Anak atau Cucu dari Anak Laki-laki Atau mempunyai 2 Saudara kandung atau Saudara Seayah</string>
+    <string name="ibu_sy2">Tidak Mempunyai anak atau Cucu dari anak (L) atau Tidak ada Saudara dan Saudari Kandung Atau Saudara dan Saudari Seayah</string>
+    <string name="ibu_sy3">Bersama Ayah serta Suami Atau Istri</string>
+
+    <!-- kakek -->
+    <string name="kakek_sy1">Mempunyai Anak atau mempunyai Cucu dari Anak Laki-Laki</string>
+    <string name="kakek_sy2">Bersama Ahli waris Wanita dan tidak ada ahli waris fardu Laki-Laki</string>
+    <string name="kakek_sy3">Tidak Mempunyai Anak atau tidak mempunyai Cucu dari Anak Laki-Laki</string>
+    <string name="kakek_sy4">Seorang diri (Penerima Waris Tunggal)</string>
+    <string name="kakek_sy5">Oleh Ayah</string>
+
+    <!-- nenek bapak -->
+    <string name="nenekb_sy1">Tidak ada Ibu dan Ayah</string>
+    <string name="nenekb_sy2">Oleh Ibu atau Ayah</string>
+
+    <!-- nenek ibu -->
+    <string name="neneki_sy1">Tidak ada Ibu</string>
+    <string name="neneki_sy2">Oleh Ibu</string>
+
+    <!-- cucu laki -->
+    <string name="cl_sy1">Tidak ada Anak Laki-Laki</string>
+    <string name="cl_sy2">Seorang Diri (Penerima waris Tunggal)</string>
+    <string name="cl_sy3">Oleh Anak Laki-Laki</string>
+
+    <!-- cucu perempuan -->
+    <string name="cp_sy1">Hanya sendiri, dan Tidak ada Anak Laki-Laki danPerempuan</string>
+    <string name="cp_sy2">Seorang atau lebih dan bersama dengan seorang Anak Perempuan dan Tidak ada Anak laki-Laki</string>
+    <string name="cp_sy3">2 orang atau lebih dan tidak ada Anak Laki-Laki dan Anak Perempuan</string>
+    <string name="cp_sy4">Mempunyai Cucu Laki-Laki</string>
+    <string name="cp_sy5">Mempunyai anak Laki-Laki Atau 2 orang Anak Perempuan atau lebih</string>
+
+    <!-- saudara kandung -->
+    <string name="sdk_sy1">Tidak ada Anak , Ayah, Kakek, Cucu (L) dari Anak (L)</string>
+    <string name="sdk_sy2">Oleh Anak , Ayah, Kakek, Cucu (L) dari Anak (L)</string>
+
+    <!-- saudari kandung -->
+    <string name="sdik_sy1">Hanya seorang, Tidak ada Anak , Ayah, Kakek, Cucu (L) dari Anak (L)</string>
+    <string name="sdik_sy2">Dua orang atau lebih dan Tidak ada Anak , Ayah, Kakek, Cucu (L) dari Anak (L)</string>
+    <string name="sdik_sy3">Oleh Anak , Ayah, Kakek, Cucu (L) dari Anak (L)</string>
+
+    <!-- saudara sebapak -->
+    <string name="sdb_sy1">Tidak ada Anak , Kakek, Cucu (L) dari Anak (L)</string>
+
+    <!-- saudari sebapak -->
+    <string name="sdib_sy1">Hanya Seorang, Tidak ada Anak , Cucu, Saudara Kandung Ayah dan Tidak ada Ahli Waris yang menjadikannya Ashabah</string>
+    <string name="sdib_sy2">Dua orang atau lebih dengan syarat tidak ada cucu (L), saudara kandung, ayah dan tidak ada ahli waris yang menjadikannya Ashabah</string>
+    <string name="sdib_sy3">Disebabkan oleh saudara (L) seayah atau kakek</string>
+    <string name="sdib_sy4">Mempunyai Ayah dan Dua orang atau Lebih Saudara (P) kandung dan mempunyai Anak (P) dan cucu (P) dan Saudara (L) kandung</string>
+
+    <!-- saudara/i seibu -->
+    <string name="sdi_sy1">Hanya Seorang, Tidak ada Anak , Cucu dari Anak (L), Ayah dan Kakek</string>
+    <string name="sdi_sy2">Dua orang atau lebih dengan syarat tidak ada Ayah, Kakek dan tidak ada Anak Atau cucu dari Anak (L)</string>
+    <string name="sdi_sy3">Oleh Ayah, kakek, Anak dan Cucu (L) dari Anak (L)</string>
+
+    <!-- keponakan -->
+    <string name="kp_k_sy1">Tidak ada waris fardu dan paman sekandung atau Paman Seayah Atau tidak ada Saudara (L) Seibu</string>
+
+    <!-- keponakan sebapak -->
+    <string name="kp_b_sy1">Tidak ada waris fardu dan paman sekandung atau Paman Seayah Atau tidak ada Saudara (L) Seibu Atau Putra dari paman sekandung</string>
+
+    <!-- paman kandung -->
+    <string name="pk_sy1">Tidak ada waris fardu</string>
+
+    <!-- paman sebapak -->
+    <string name="pb_sy1">Tidak ada waris fardu dan Paman Sekandung</string>
+
+    <!-- anak paman kandung -->
+    <string name="apk_sy1">Tidak ada waris fardu dan Paman Sekandung Atau Paman seayah</string>
+
+    <!-- anak paman sebapak -->
+    <string name="apb_sy1">Tidak ada waris fardu dan Paman Sekandung Atau Paman seayah Atau Putra dari Paman Sebapak</string>
+
+    <!-- help hitung -->
+    <string name="hit1">1. Pilih menu kalkulator</string>
+    <string name="hit2">\n2. Tentukan jenis kelamin, status pernikahan dan apakah memiliki anak kemudian tekan tombol <b>lanjut</b></string>
+    <string name="hit3">\n3. Masukan jumlah harta yang ditinggalkan berikut dengan jumlah kewajiban-kewajiban yang harus ditunaikan kemudian tekan tombol <b>lanjut</b></string>
+    <string name="hit4">\n4. Masukan jumlah ahli waris golongan pertama kemudian tekan tombol <b>lanjut</b></string>
+    <string name="hit5">\n5. Masukan jumlah ahli waris golongan kedua, jika tidak ada pilihan untuk memasukan jumlah, berarti ahli waris tersebut terhalangi untuk mendapatkan waris kemudian tekan tombol <b>lanjut</b></string>
+    <string name="hit6">\n6. Masukan jumlah ahli waris golongan ketiga kemudian tekan tombol <b>lanjut</b></string>
+    <string name="hit7">\n7. Masukan jumlah ahli waris golongan keempat kemudian tekan tombol <b>hitung</b></string>
+    <string name="hit8">\n8. Kemudian akan muncul jumlah pembagian harat waris untuk setiap ahli waris, tekan tombol <b>Ulang</b> untuk mengulangi perhitungan atau kemudian tekan tombol <b>kembali</b> untuk kembali ke langkah sebelumnya</string>
+
+    <!-- help materi -->
+    <string name="hm1">1. Pilih menu dasar-dasar</string>
+    <string name="hm2">\n2. Pilih salah satu materi</string>
+    <string name="hm3">\n3. Selanjutnya akan tampil materi sesuai dengan menu yang dipilih, untuk pada manu <b>ayat waris</b> tekan icon suara untuk mendengarkan</string>
+
+</resources>

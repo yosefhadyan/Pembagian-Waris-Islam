@@ -1,0 +1,146 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_materi_cnt"
+    android:orientation="vertical"
+    tools:context="id.barkost.warisislam.Materi" >
+
+    <TextView
+        android:id="@+id/materi_head"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:id="@+id/scroll_cnt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/materi_head" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical" >
+
+            <WebView
+                android:id="@+id/textContent"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/btn_ayat1s"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/textContent"
+                android:background="@drawable/button_sound_stop"
+                android:onClick="stop" />
+
+            <Button
+                android:id="@+id/btn_ayat1"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignBaseline="@+id/btn_ayat1s"
+                android:layout_alignBottom="@+id/btn_ayat1s"
+                android:layout_toLeftOf="@+id/btn_ayat1s"
+                android:background="@drawable/button_sound_play"
+                android:onClick="play1" />
+            
+            <ImageView
+                android:id="@+id/img_vers1"
+                android:layout_width="300dp"
+                android:layout_height="205dp"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/btn_ayat1"
+                android:layout_marginTop="5dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/qs_4_11" />
+
+            <WebView
+                android:id="@+id/textContent1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/img_vers1" />
+
+            <Button
+                android:id="@+id/btn_ayat2s"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/textContent1"
+                android:background="@drawable/button_sound_stop"
+                android:onClick="stop" />
+
+            <Button
+                android:id="@+id/btn_ayat2"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignBaseline="@+id/btn_ayat2s"
+                android:layout_alignBottom="@+id/btn_ayat2s"
+                android:layout_toLeftOf="@+id/btn_ayat2s"
+                android:background="@drawable/button_sound_play"
+                android:onClick="play2" />
+
+            <ImageView
+                android:id="@+id/img_vers2"
+                android:layout_width="300dp"
+                android:layout_height="268dp"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/btn_ayat2"
+                android:scaleType="centerCrop"
+                android:src="@drawable/qs_4_12" />
+
+            <WebView
+                android:id="@+id/textContent2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/img_vers2" />
+
+            <Button
+                android:id="@+id/btn_ayat3s"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/textContent2"
+                android:background="@drawable/button_sound_stop"
+                android:onClick="stop" />
+
+            <Button
+                android:id="@+id/btn_ayat3"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignBaseline="@+id/btn_ayat3s"
+                android:layout_alignBottom="@+id/btn_ayat3s"
+                android:layout_toLeftOf="@+id/btn_ayat3s"
+                android:background="@drawable/button_sound_play"
+                android:onClick="play3" />
+            
+            <ImageView
+                android:id="@+id/img_vers3"
+                android:layout_width="300dp"
+                android:layout_height="149dp"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/btn_ayat3"
+                android:scaleType="centerCrop"
+                android:src="@drawable/qs_4_176" />
+
+            <WebView
+                android:id="@+id/textContent3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/img_vers3" />
+
+            
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

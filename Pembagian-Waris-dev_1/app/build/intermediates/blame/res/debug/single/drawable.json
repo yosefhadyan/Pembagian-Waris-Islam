@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi2.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\materi2.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qs_4_176.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\qs_4_176.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qs_4_11.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\qs_4_11.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sound_play.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_sound_play.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sound_stop.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_sound_stop.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qs_4_12.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\qs_4_12.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitung8.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\hitung8.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_pressed.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\help_pressed.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitung.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\hitung.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_hitung.jpg",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\bg_hitung.jpg"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_materi.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_materi.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi3.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\materi3.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sttg.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\sttg.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_custt_unpressed.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_custt_unpressed.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sound_pause.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_sound_pause.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_splash.jpg",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\bg_splash.jpg"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitung6.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\hitung6.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_custt_pressed.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_custt_pressed.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dinar.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\dinar.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_cust_unpressed.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_cust_unpressed.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_hitung.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_hitung.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_cust_pressed.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_cust_pressed.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_trans.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\bg_trans.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_trans.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_trans.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitung_pressed.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\hitung_pressed.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pohon.jpg",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\pohon.jpg"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitung4.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\hitung4.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_about.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_about.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hand.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\hand.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitung3.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\hitung3.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dasar.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\dasar.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_help.jpg",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\bg_help.jpg"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitung5.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\hitung5.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dasar_pressed.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\dasar_pressed.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitung2.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\hitung2.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_materi_cnt.jpg",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\bg_materi_cnt.jpg"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cell_shape.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\cell_shape.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_pressed.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\about_pressed.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_help.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_help.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitung7.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\hitung7.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_custt.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_custt.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_home.jpg",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\bg_home.jpg"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi1.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\materi1.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\10.0.1\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_nav.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_nav.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_cust.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\button_cust.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_materi.jpg",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\bg_materi.jpg"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitung1.png",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\drawable\\hitung1.png"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_forward.xml"
+    }
+]

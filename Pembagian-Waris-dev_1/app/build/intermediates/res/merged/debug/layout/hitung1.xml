@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg_hitung"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tx_s1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10.0dip"
+        android:text="@string/step1"
+        android:textAppearance="?android:textAppearanceLarge" />
+
+    <ScrollView
+        android:id="@+id/sv_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/footer"
+        android:layout_below="@+id/tx_s1"
+        android:layout_centerHorizontal="true" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10.0dip"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tx_s1_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10.0dip"
+                android:text="@string/langkah1"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="#000" />
+
+            <TextView
+                android:id="@+id/tx_s1_desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10.0dip"
+                android:text="@string/Langkah1Desc"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="#000" />
+
+            <TextView
+                android:id="@+id/tx_kelamin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/str_kelamin"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="#000" />
+
+            <RadioGroup
+                android:id="@+id/radioKelamin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <RadioButton
+                    android:id="@+id/radioLaki"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/str_kelamin_l"
+                    android:textColor="#000" />
+
+                <RadioButton
+                    android:id="@+id/radioPerempuan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/str_kelamin_p"
+                    android:textColor="#000" />
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/tx_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20.0dip"
+                android:text="@string/str_status"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="#000" />
+
+            <RadioGroup
+                android:id="@+id/radioStatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <RadioButton
+                    android:id="@+id/radioNikah"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/str_status_nikah"
+                    android:textColor="#000" />
+
+                <RadioButton
+                    android:id="@+id/radioTNikah"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/str_status_t_nikah"
+                    android:textColor="#000" />
+
+                <RadioButton
+                    android:id="@+id/radioCerai"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/str_status_cerai"
+                    android:textColor="#000" />
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/tx_anak"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20.0dip"
+                android:text="@string/str_anak"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="#000" />
+
+            <RadioGroup
+                android:id="@+id/radioAnak"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="30.0dip" >
+
+                <RadioButton
+                    android:id="@+id/radioAnakYa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/str_anak_ya"
+                    android:textColor="#000" />
+
+                <RadioButton
+                    android:id="@+id/radioAnakTidak"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/str_anak_tidak"
+                    android:textColor="#000" />
+            </RadioGroup>
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/footer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="#22222222" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/separator"
+            android:textColor="#ff888888"
+            android:textSize="30.0sp" />
+
+        <Button
+            android:id="@+id/btn_back_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/textView1"
+            android:background="@drawable/button_nav"
+            android:text="@string/back" />
+
+        <Button
+            android:id="@+id/btn_next_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@+id/textView1"
+            android:background="@drawable/button_nav"
+            android:text="@string/next" />
+    </RelativeLayout>
+
+</RelativeLayout>

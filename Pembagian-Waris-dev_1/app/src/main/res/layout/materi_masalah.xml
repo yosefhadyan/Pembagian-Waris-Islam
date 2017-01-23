@@ -1,0 +1,93 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_materi"
+    android:orientation="vertical"
+    tools:context="id.barkost.warisislam.Materi" >
+
+    <ScrollView
+        android:id="@+id/scroll_materi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/mat_masalah1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:background="@drawable/button_cust"
+                android:onClick="onClick"
+                android:text="@string/mat_masalah_1"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/mat_masalah2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:background="@drawable/button_cust"
+                android:onClick="onClick"
+                android:text="@string/mat_masalah_2"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/mat_masalah3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:background="@drawable/button_cust"
+                android:onClick="onClick"
+                android:text="@string/mat_masalah_3"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/mat_masalah4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:background="@drawable/button_cust"
+                android:onClick="onClick"
+                android:text="@string/mat_masalah_4"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/mat_masalah5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:background="@drawable/button_cust"
+                android:onClick="onClick"
+                android:text="@string/mat_masalah_5"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/mat_masalah6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:background="@drawable/button_cust"
+                android:onClick="onClick"
+                android:text="@string/mat_masalah_6"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/mat_masalah7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:background="@drawable/button_custt"
+                android:onClick="onClick"
+                android:text="@string/mat_masalah_7"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

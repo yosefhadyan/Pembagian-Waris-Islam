@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="ButtonStyle">
+        <ignore path="res/layout/activity_main.xml" />
+    </issue>
+    <issue id="ContentDescription">
+        <ignore path="res/layout-large/about.xml" />
+        <ignore path="res/layout-large/act_help.xml" />
+        <ignore path="res/layout-large/help_hitung.xml" />
+        <ignore path="res/layout-large/help_materi.xml" />
+        <ignore path="res/layout-large/materi_pohon.xml" />
+        <ignore path="res/layout/about.xml" />
+        <ignore path="res/layout/act_help.xml" />
+        <ignore path="res/layout/activity_act_help.xml" />
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/help_hitung.xml" />
+        <ignore path="res/layout/help_materi.xml" />
+        <ignore path="res/layout/materi_ayat.xml" />
+        <ignore path="res/layout/materi_cnt.xml" />
+        <ignore path="res/layout/materi_pohon.xml" />
+    </issue>
+    <issue id="ExtraText">
+        <ignore path="res/layout/activity_act_help.xml" />
+    </issue>
+    <issue id="HardcodedText">
+        <ignore path="res/layout-large/help_hitung.xml" />
+        <ignore path="res/layout-large/help_materi.xml" />
+        <ignore path="res/layout/about.xml" />
+        <ignore path="res/layout/help_hitung.xml" />
+        <ignore path="res/layout/help_materi.xml" />
+        <ignore path="res/layout/materi_ahli.xml" />
+        <ignore path="res/layout/materi_ahli_cnt.xml" />
+    </issue>
+    <issue id="InefficientWeight">
+        <ignore path="res/layout-large/about.xml" />
+    </issue>
+    <issue id="RtlHardcoded">
+        <ignore path="res/layout-large/help_hitung.xml" />
+        <ignore path="res/layout-large/help_materi.xml" />
+        <ignore path="res/layout-large/hitung1.xml" />
+        <ignore path="res/layout-large/hitung_hasil.xml" />
+        <ignore path="res/layout/about.xml" />
+        <ignore path="res/layout/help_hitung.xml" />
+        <ignore path="res/layout/help_materi.xml" />
+        <ignore path="res/layout/hitung1.xml" />
+        <ignore path="res/layout/hitung2.xml" />
+        <ignore path="res/layout/hitung3.xml" />
+        <ignore path="res/layout/hitung4.xml" />
+        <ignore path="res/layout/hitung5.xml" />
+        <ignore path="res/layout/hitung6.xml" />
+        <ignore path="res/layout/hitung_hasil.xml" />
+        <ignore path="res/layout/materi.xml" />
+        <ignore path="res/layout/materi_ahli.xml" />
+        <ignore path="res/layout/materi_ahli_cnt.xml" />
+        <ignore path="res/layout/materi_ayat.xml" />
+        <ignore path="res/layout/materi_cnt.xml" />
+        <ignore path="res/layout/materi_masalah.xml" />
+        <ignore path="res/layout/materi_masalah_cnt.xml" />
+    </issue>
+    <issue id="RtlSymmetry">
+        <ignore path="res/layout/materi_ahli.xml" />
+        <ignore path="res/layout/materi_ahli_cnt.xml" />
+    </issue>
+    <issue id="ScrollViewSize">
+        <ignore path="res/layout-large/help_hitung.xml" />
+        <ignore path="res/layout-large/help_materi.xml" />
+        <ignore path="res/layout-large/hitung_hasil.xml" />
+        <ignore path="res/layout/help_hitung.xml" />
+        <ignore path="res/layout/help_materi.xml" />
+        <ignore path="res/layout/hitung3.xml" />
+        <ignore path="res/layout/hitung4.xml" />
+        <ignore path="res/layout/hitung5.xml" />
+        <ignore path="res/layout/hitung6.xml" />
+        <ignore path="res/layout/hitung_hasil.xml" />
+        <ignore path="res/layout/materi_ahli.xml" />
+        <ignore path="res/layout/materi_ahli_cnt.xml" />
+        <ignore path="res/layout/materi_ayat.xml" />
+        <ignore path="res/layout/materi_cnt.xml" />
+        <ignore path="res/layout/materi_masalah_cnt.xml" />
+    </issue>
+    <issue id="SpUsage">
+        <ignore path="res/layout-large/help.xml" />
+    </issue>
+    <issue id="UnknownIdInLayout">
+        <ignore path="res/layout/about.xml" />
+        <ignore path="res/layout/materi_ahli_cnt.xml" />
+    </issue>
+    <issue id="UselessParent">
+        <ignore path="res/layout-large/activity_main.xml" />
+        <ignore path="res/layout-large/help.xml" />
+        <ignore path="res/layout-large/help_hitung.xml" />
+        <ignore path="res/layout-large/help_materi.xml" />
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/help.xml" />
+        <ignore path="res/layout/help_hitung.xml" />
+        <ignore path="res/layout/help_materi.xml" />
+        <ignore path="res/layout/materi.xml" />
+        <ignore path="res/layout/materi_ahli.xml" />
+        <ignore path="res/layout/materi_ahli_cnt.xml" />
+        <ignore path="res/layout/materi_masalah.xml" />
+    </issue>
+</lint>

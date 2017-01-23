@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_materi"
+    android:orientation="vertical"
+    tools:context="id.barkost.warisislam.Materi" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/listViewAhli"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="#22000000"
+            android:choiceMode="singleChoice"
+            android:divider="#444"
+            android:dividerHeight="0.5dp" >
+        </ListView>
+    </LinearLayout>
+
+</RelativeLayout>

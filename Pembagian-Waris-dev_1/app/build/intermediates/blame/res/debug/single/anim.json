@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\appear.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\appear.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exit_to_bottom.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\exit_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\disappear.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_to_right.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\slide_to_right.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exit_to_up.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\exit_to_up.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hitung_disappear.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\hitung_disappear.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\overshoot.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\overshoot.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter_from_bottom.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\enter_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hand_up.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\hand_up.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_from_right.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\slide_from_right.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hitung_appear.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\hitung_appear.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_and_scale_in.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\fade_and_scale_in.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\stand.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\stand.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_to_left.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\slide_to_left.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_from_left.xml",
+        "source": "D:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\src\\main\\res\\anim\\slide_from_left.xml"
+    }
+]

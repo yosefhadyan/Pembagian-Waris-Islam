@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.barkost.waris"
+    android:versionCode="1"
+    android:versionName="0.2">
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:configChanges="orientation"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".Splash"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".ActHelp"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"></activity>
+        <activity
+            android:name=".About"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Help"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Hitung1"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Hitung2"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Hitung3"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Hitung4"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Hitung5"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Hitung6"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".HitungHasil"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Materi"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".MateriCnt"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".MateriAhli"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".MateriAyat"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".MateriAhliCnt"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".MateriMasalah"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".MateriMasalahCnt"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".MateriPohon"></activity>
+        <activity
+            android:name=".HelpHitung"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".HelpMateri"
+            android:screenOrientation="portrait"></activity>
+        <!-- Include the AdActivity configChanges and theme. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity android:name=".AdsActivity"></activity>
+    </application>
+
+</manifest>

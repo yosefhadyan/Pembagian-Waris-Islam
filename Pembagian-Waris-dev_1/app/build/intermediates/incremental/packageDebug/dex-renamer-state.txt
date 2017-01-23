@@ -1,0 +1,7 @@
+#Mon Jan 23 10:48:16 ICT 2017
+base.0=D\:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c744882369140138226d73941cd5a750f5e1e679
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d109e4960fa42eb4ea6c7e3bb5289534fc7c6394\\classes.dex
+base.1=D\:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d109e4960fa42eb4ea6c7e3bb5289534fc7c6394
+file.0=D\:\\Barkost\\Fikri\\Pembagian-Waris-dev_1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c744882369140138226d73941cd5a750f5e1e679\\classes.dex
